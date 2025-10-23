@@ -1,2 +1,0 @@
-   [ WARNING ]  The following taxonomy IDs were not found in the local database and were set to root (if they were
-                recently added to NCBI, use updateTaxonomy.sh to update the local database): 3 462
