@@ -1,0 +1,3 @@
+   [ WARNING ]  The following taxonomy IDs were not found in the local database and were set to root (if they were
+                recently added to NCBI, use updateTaxonomy.sh to update the local database): 1673076
+   [ WARNING ]  Too many query IDs to store in chart; storing supplemental files in 'evol2_krona_cut.html.files'.
